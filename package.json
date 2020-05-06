@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/packtci/functional-summer.git"
+    "url": "git+https://github.com/mrojasb2000/functional-summer"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/packtci/functional-summer/issues"
+    "url": "https://github.com/mrojasb2000/functional-summer/issues"
   },
-  "homepage": "https://github.com/packtci/functional-summer#readme",
+  "homepage": "https://github.com/mrojasb2000/functional-summer#readme",
   "devDependencies": {
     "tap": "^12.0.1"
   }
